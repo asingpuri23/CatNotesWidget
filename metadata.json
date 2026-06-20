@@ -1,0 +1,6 @@
+{
+  "name": "Cat Notes Widget",
+  "description": "An adorable pastel notes app with cute customizable cat widgets and sticker packs, designed in a precious Hello Kitty visual theme.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
